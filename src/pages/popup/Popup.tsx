@@ -7,7 +7,7 @@ const Popup = () => {
   return (
     <div className="App">
       <header className="flex flex-col">
-        <Button variant="destructive">Button</Button>
+        <Button variant="default">Button</Button>
         <Input placeholder="Input" />
       </header>
     </div>
